@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "allowed_ids": {
+      ".read": true,
+      ".write": false
+    }
+  }
+}

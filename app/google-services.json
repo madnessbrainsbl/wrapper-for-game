@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230452221185",
+    "project_id": "fmm24-cd160",
+    "storage_bucket": "fmm24-cd160.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230452221185:android:a28667d01839ae87907700",
+        "android_client_info": {
+          "package_name": "com.fmguides.fmfdef.dexsingle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiuf65jpsH_AX9_HoR7gYApMMqRE6_M68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
